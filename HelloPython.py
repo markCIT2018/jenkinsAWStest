@@ -1,3 +1,4 @@
+
 import datetime
 print("Hello world!")
 now = datetime.datetime.now()
@@ -6,3 +7,4 @@ print (now.strftime("%A, %d-%m-%Y : %H:%M"))
 print ("mark was here")
 
 	
+print ("jerry was here, thats limerick city boi")
