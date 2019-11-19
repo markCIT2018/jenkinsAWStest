@@ -1,4 +1,4 @@
-fuckthepolicekjwehfownehwjufejbhjkiogjkegieojghkjkbweifhbhjklwjefoijfnjwifowjjwgqgelnjnsome 
+jhoeiwbujfuckthepolicekjwehfownehwjufejbhjkiogjkegieojghkjkbweifhbhjklwjefoijfnjwifowjjwgqgelnjnsome 
 nonabghuigbhugdfsff
 import datetime
 print("Hello world!")
