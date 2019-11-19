@@ -15,8 +15,10 @@ phases:
   build:
     commands:
          - echo Build started on `date`
+    finally:
+         - echo Executing build Finally 
   post_build:
     commands:
-        - echo Build completed on `date`
+        - echo Executing Post Build Phase
     finally:
-        - echo Executing Install Phase
+        - echo Executing Posy Build Finally
