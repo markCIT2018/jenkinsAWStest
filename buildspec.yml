@@ -2,8 +2,6 @@ version: 0.3
 
 phases:
   install:
-     runtime-versions:
-       java: corretto8
     comamands:
         - echo Executing Install Phase
         - echo Executing Second part ofInstall Phase 
