@@ -1,8 +1,4 @@
-fuck 
-you 
-jerry 
-hjjefhwefjhwfkjhjhuhejkjkwnfjkjhoeiwbujfuckthepolicekjwehfownehwjufejbhjkiogjkegieojghkjkbweifhbhjklwjefoijfnjwifowjjwgqgelnjnsome 
-nonabghuigbhugdfsff
+
 import datetime
 print("Hello world!")
 now = datetime.datetime.now()
